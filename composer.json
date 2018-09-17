@@ -9,7 +9,7 @@
         "email": "hocnt84@gmail.com"
     }],
     "require": {
-        "laravel/scout": "^3.0",
+        "laravel/scout": "^5.0",
         "foolz/sphinxql-query-builder": "^1.1"
     },
     "autoload": {
